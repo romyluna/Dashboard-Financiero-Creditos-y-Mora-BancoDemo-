@@ -1,6 +1,6 @@
-## Dashboard Financiero – Créditos y Mora - BancoDemo 
+# Dashboard Financiero – Créditos y Mora - BancoDemo 
 
-## Proyecto SQL + Power BI
+# Proyecto SQL + Power BI 📊
 
 Este proyecto es una base de datos de ejemplo para practicar consultas SQL relacionadas con clientes y créditos. Incluye la creación de tablas, inserción de datos y consultas útiles para análisis y KPIs.
 Power BI con algunas consultas vinculadas al SQL (para esto se crearon vistas en sql)
@@ -84,4 +84,18 @@ Nota: da 100% porque puse de ejemplo 3 clientes de los cuales 2 estan en mora y 
 Calcula el promedio de monto de créditos.
 
 Se puede mostrar en KPI o como referencia en gráficos comparativos.
+
+---
+
+### 👩‍💻 Contacto
+<a name="contacto"></a>
+
+👩‍💻 Romina Olivera Luna
+</br>
+💌 rominalunaolivera@gmail.com
+</br>
+🔗 [LinkedIn
+](https://www.linkedin.com/in/romina-bluna/)
+
+[⬆️ Volver arriba](#readme)
 
